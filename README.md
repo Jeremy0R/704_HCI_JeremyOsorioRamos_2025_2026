@@ -15,3 +15,12 @@ Este repositorio contiene documentos y recursos relacionados con los temas visto
 Cada investigación busca comprender cómo las personas interactúan con la tecnología y cómo mejorar la experiencia del usuario a través de un diseño intuitivo, accesible y funcional.
 
 ---
+## 👨‍💻 Autor
+**Jeremy Osorio Ramos** — Estudiante de Ingeniería en Computación  
+💚 *Universidad del Istmo - Campus Tehuantepec*  
+📅 *Semestre 2025-B*  
+
+---
+
+## 📄 Licencia
+Este repositorio tiene fines educativos y puede ser utilizado como referencia para fines académicos, citando la fuente correspondiente.
